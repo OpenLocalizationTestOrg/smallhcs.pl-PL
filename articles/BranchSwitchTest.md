@@ -1,0 +1,2 @@
+# <a name="this-is-for-branch-switch-testing"></a><span data-ttu-id="d0b57-101">Dotyczy to testowania przełączeń oddziału</span><span class="sxs-lookup"><span data-stu-id="d0b57-101">This is for Branch switch testing</span></span>
+<span data-ttu-id="d0b57-102">To jest w gałęzi głównej, z którą jest on oryginalny</span><span class="sxs-lookup"><span data-stu-id="d0b57-102">This one is in Master branch with is original one</span></span>
